@@ -1,0 +1,10 @@
+#time {
+  margin: 50px 0 0 30px;
+  font-size: 60px;
+}
+
+.buttons {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
