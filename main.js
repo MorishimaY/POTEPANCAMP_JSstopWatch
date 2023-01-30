@@ -33,6 +33,7 @@ start.addEventListener('click', function(e) {
   
   document.getElementById("start").setAttribute("disabled", true);
   document.getElementById("stop").removeAttribute("disabled");
+  document.getElementById("reset").setAttribute("disabled", true);
 });
 
 
